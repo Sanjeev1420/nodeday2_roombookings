@@ -1,0 +1,15 @@
+Render URL with EndPoints :
+
+1) https://roombooking-4v71.onrender.com/createRoom
+
+2) https://roombooking-4v71.onrender.com/bookRoom
+
+3) https://roombooking-4v71.onrender.com/listRooms
+
+4) https://roombooking-4v71.onrender.com/listCustomers
+
+5) https://roombooking-4v71.onrender.com/getBookingHistory?customerName=customer_name
+
+Last Commited Hash Id :
+
+915b79e326536b1fb8297739afea7b4be664e26a
